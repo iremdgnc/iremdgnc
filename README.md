@@ -4,7 +4,6 @@
 - 🌱 I am currently learning web development with python.
 - 📫 You can reach me from my e-mail address below and my Linkedin profile.
 
-<br />
 
 ### Contact
 
@@ -12,7 +11,7 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
 
-<br />
+
 
 [linkedin]: https://www.linkedin.com/in/iremdoganci/
 [gmail]: mailto:irem.doganci@hotmail.com
