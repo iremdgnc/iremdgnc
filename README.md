@@ -3,6 +3,7 @@
 - 👀 I am interested in image processing and artificial intelligence.
 - 🌱 I am currently learning web development with python.
 - 📫 You can reach me from my e-mail address below and my Linkedin profile.
+
 <br />
 
 ### Contact
