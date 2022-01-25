@@ -9,5 +9,5 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/iremdoganci/)
 
-<img src="{https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white}" />
 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
