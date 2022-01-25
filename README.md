@@ -20,10 +20,12 @@ https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&log
 
 
 
-
 <br />
+
+### 📩 Connect with me:
+
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/iremdoganci/
+
 <br />
 
-
+[linkedin]: https://www.linkedin.com/in/iremdoganci/
