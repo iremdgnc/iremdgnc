@@ -6,3 +6,5 @@
 
 📫 irem.doganci@hotmail.com 
 📫 https://www.linkedin.com/in/iremdoganci
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
