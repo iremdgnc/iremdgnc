@@ -4,7 +4,7 @@
 - 🌱 I am currently learning web development with python.
 - 📫 You can reach me from my e-mail address below and my Linkedin profile.
 
-📫 irem.doganci@hotmail.com  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/iremdoganci/)
+📫 irem.doganci@hotmail.com    [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/iremdoganci/)
 
 ### Languages and Frameworks
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
