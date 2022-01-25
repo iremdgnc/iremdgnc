@@ -4,8 +4,15 @@
 - 🌱 I am currently learning web development with python.
 - 📫 You can reach me from my e-mail address below and my Linkedin profile.
 
-### Contact
-📫 irem.doganci@hotmail.com    [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/iremdoganci/)
+<br />
+
+### Contacr
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/iremdoganci/
 
 ### Languages and Frameworks
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -20,12 +27,4 @@ https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&log
 
 
 
-<br />
 
-### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/iremdoganci/
