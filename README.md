@@ -8,7 +8,7 @@
 
 ### Contact
 
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 
@@ -20,7 +20,21 @@
 [linkedin]: https://www.linkedin.com/in/iremdoganci/
 [blog]: https://medium.com/@irem.doganci
 
+<br />
 
+### Social
+
+[<img align="left" height="24" width="24" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />][codewars]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
+
+<br />
+
+
+
+[codewars]: https://www.codewars.com/users/iremdgnc
+[hackerrank]: https://www.hackerrank.com/irem_doganci
+[kaggle]: https://www.kaggle.com/irmdgnc
 
 ### Languages and Frameworks
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
